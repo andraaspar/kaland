@@ -5,5 +5,5 @@ $locationText = <<<EOT
 EOT;
 
 $locationPaths = [
-	getPath(2) => '[Rúgok egyet.]'
+	getPath(1447440810) => '[Rúgok egyet.]'
 ];

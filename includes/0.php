@@ -1,6 +1,6 @@
 <?php
 
-$pathInputs_ = getPathInputs(1, "name");
+$pathInputs_ = getPathInputs(1447440757, "name");
 $nameEscaped = htmlspecialchars($name);
 
 $locationText = <<<EOT
